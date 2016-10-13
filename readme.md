@@ -1,9 +1,7 @@
 ## Tìm hiểu về Markdown
-> Tài liệu: Tìm hiểu về Markdown
-> 
-> Thực hiện: Vũ Thị Thuỷ Tiên
-> 
-> Cập nhật lần cuối: 14/10/2016
+Tài liệu: Tìm hiểu về Markdown
+Thực hiện: Vũ Thị Thuỷ Tiên
+Cập nhật lần cuối: 14/10/2016
 
 ### Markdown là gì ?
 - Là ngôn ngữ đánh dấu siêu văn bản
@@ -25,21 +23,21 @@
 
 ####2.Chèn ảnh, chèn link
 - Để chèn hyperlink bạn chỉ cần paste luôn linh đó vào file .md
-- Ví dụ: https://github.com
+Ví dụ: https://github.com
 Hoặc bạn cũng có thể sử dụng cú pháp sau để thu ngắn đường dẫn của link
-[mô tả](link_cua_ban)
+[tên](http://...........)
 Ví dụ: [GitHub](https://github.com)
 - Để chèn ảnh thì bạn hãy sử dụng cú pháp sau:
 <img src="link ảnh của bạn">
 - Ví dụ: <img src="http://imgur.com/a/3qg0Y">
 ####3.Kí tự in đậm, in nghiêng
-- Để in đậm một đoạn text bạn chỉ cần làm như sau:
+- Để in đậm một đoạn text bạn chỉ cần để trong dấu **:
 **từ cần in đậm**
-- Để in nghiên một đoạn text bạn chỉ cần làm như sau:
+- Để in nghiêng một đoạn text bạn chỉ cần để trong dấu *:
 *từ cần in nghiêng*
 
 ####4.Trích dẫn, bo chữ
-- Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:
+- Để bo một đoạn text thì bạn chỉ cần đặt trong dấu `:
 `đoạn cần bo`
 
 ####5.Gạch đầu dòng
@@ -56,7 +54,9 @@ Ví dụ: [GitHub](https://github.com)
   </ul>
 
 ####6. Tạo bảng
-- Bạn có thể sử dụng cú pháp sau để tạo bảng:
+Kí tự | bắt đầu một hàng
+Kí tự - tách phần header của bảng
+Kí tự = tách phần footer
 
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
 |--------------|-------|------|-------|
