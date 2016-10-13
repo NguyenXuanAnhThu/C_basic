@@ -27,11 +27,11 @@
 - Để chèn hyperlink bạn chỉ cần paste luôn linh đó vào file .md
 - Ví dụ: https://github.com
 Hoặc bạn cũng có thể sử dụng cú pháp sau để thu ngắn đường dẫn của link
-[mô tả](đường link)
-- Ví dụ: [GitHub](https://github.com)
+[mô tả](link_cua_ban)
+Ví dụ: [GitHub](https://github.com)
 - Để chèn ảnh thì bạn hãy sử dụng cú pháp sau:
 <img src="link ảnh của bạn">
-- Ví dụ: <img src="http://hinhanhdep.pro/content/uploads/2014/11/hinh-anh-de-thuong-cua-meo-con-612-8.jpg">
+- Ví dụ: <img src="http://imgur.com/a/3qg0Y">
 ####3.Kí tự in đậm, in nghiêng
 - Để in đậm một đoạn text bạn chỉ cần làm như sau:
 **từ cần in đậm**
