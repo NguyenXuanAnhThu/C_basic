@@ -50,8 +50,11 @@ Ví dụ: `<img src="http://imgur.com/a/3qg0Y">` sẽ được <img src="http://
 - Để in nghiêng một đoạn text bạn chỉ cần dùng cú pháp: `*từ cần in nghiêng*` sẽ được *từ cần in nghiêng*
 
 ####4.Trích dẫn, bo chữ
-- Để bo một đoạn text thì bạn chỉ cần dùng cú pháp: ``đoạn cần bo`` sẽ được
-`đoạn cần bo`
+- Để bo một đoạn text thì bạn chỉ cần dùng cú pháp: 
+```sh
+đoạn cần bo
+```
+sẽ được `đoạn cần bo`
 
 ####5.Gạch đầu dòng
 - Để sử dụng gạch đầu dòng bạn chỉ cần sử dụng cú pháp sau:
@@ -81,8 +84,11 @@ sẽ được
 
 ####6. Tạo bảng
 Kí tự | bắt đầu một hàng
+
 Kí tự - tách phần header của bảng
+
 Kí tự = tách phần footer
+
 Ví dụ:
 ```sh
 | Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
