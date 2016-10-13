@@ -16,6 +16,7 @@
 ### Các cú pháp thường gặp
 ####1.Tiêu đề
 - Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu để, có thể dùng từ 1 đến 6 kí tự # liên tiếp mức độ giảm dần từ 1 đến 6
+
 Ví dụ:
 ```sh
 #Tiêu đề 1
