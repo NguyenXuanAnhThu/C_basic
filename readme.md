@@ -32,12 +32,17 @@ sẽ được
 
 ####2.Chèn ảnh, chèn link
 - Để chèn hyperlink bạn chỉ cần paste luôn linh đó vào file .md
+
 Ví dụ: https://github.com
+
 Hoặc bạn cũng có thể sử dụng cú pháp sau để thu ngắn đường dẫn của link
 `[tên](đường link)`
+
 Ví dụ: `[GitHub](https://github.com)` sẽ được [GitHub](https://github.com) 
+
 - Để chèn ảnh thì bạn hãy sử dụng cú pháp sau:
 `<img src="link ảnh của bạn">`
+
 Ví dụ: `<img src="http://imgur.com/a/3qg0Y">` sẽ được <img src="http://imgur.com/a/3qg0Y">
 
 ####3.Kí tự in đậm, in nghiêng
