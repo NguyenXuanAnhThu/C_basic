@@ -1,7 +1,7 @@
 ## Tìm hiểu về Markdown
-Tài liệu: Tìm hiểu về Markdown
-Thực hiện: Vũ Thị Thuỷ Tiên
-Cập nhật lần cuối: 14/10/2016
+>Tài liệu: Tìm hiểu về Markdown
+>Thực hiện: Vũ Thị Thuỷ Tiên
+>Cập nhật lần cuối: 14/10/2016
 
 ### Markdown là gì ?
 - Là ngôn ngữ đánh dấu siêu văn bản
