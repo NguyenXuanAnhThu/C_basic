@@ -52,7 +52,7 @@ Ví dụ: `<img src="http://imgur.com/a/3qg0Y">` sẽ được <img src="http://
 ####4.Trích dẫn, bo chữ
 - Để bo một đoạn text thì bạn chỉ cần dùng cú pháp: 
 ```sh
-đoạn cần bo
+`đoạn cần bo`
 ```
 sẽ được `đoạn cần bo`
 
